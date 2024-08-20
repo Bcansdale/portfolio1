@@ -124,7 +124,7 @@ const About = () => {
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-down-animation fadeInLeft wow">
               <span>
-                <i className="devicon-wordpress-plain" />
+                <i className="devicon-wordpress-plain"/>
               </span>
               <h4>WordPress</h4>
             </div>
@@ -132,7 +132,7 @@ const About = () => {
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
-                <i className="devicon-javascript-plain" />
+                <i className="devicon-javascript-plain"/>
               </span>
               <h4>JavaScript</h4>
             </div>
@@ -142,7 +142,7 @@ const About = () => {
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-down-animation fadeInLeft wow">
               <span>
-                <i className="devicon-html5-plain" />
+                <i className="devicon-html5-plain"/>
               </span>
               <h4>HTML</h4>
             </div>
@@ -150,7 +150,7 @@ const About = () => {
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
-                <i className="devicon-bootstrap-plain" />
+                <i className="devicon-bootstrap-plain"/>
               </span>
               <h4>BootStrap</h4>
             </div>
@@ -160,7 +160,7 @@ const About = () => {
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-down-animation fadeInLeft wow">
               <span>
-                <i className="devicon-react-plain" />
+                <i className="devicon-react-plain"/>
               </span>
               <h4>React JS</h4>
             </div>
@@ -168,7 +168,7 @@ const About = () => {
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
-                <i className="devicon-php-plain" />
+                <i className="devicon-php-plain"/>
               </span>
               <h4>PHP</h4>
             </div>
@@ -178,7 +178,7 @@ const About = () => {
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-down-animation fadeInLeft wow">
               <span>
-                <i className="devicon-nodejs-plain" />
+                <i className="devicon-nodejs-plain"/>
               </span>
               <h4>Node JS</h4>
             </div>
@@ -186,21 +186,25 @@ const About = () => {
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
-                <i className="devicon-laravel-plain" />
+                <i className="devicon-laravel-plain"/>
               </span>
               <h4>Laravel</h4>
             </div>
             {/* SKILL ITEM ENDS */}
-            <div className="animated-layer fade-in-up-animation fadeInRight wow">
+          </div>
+          <div>
+            {/* SKILL ITEM STARTS */}
+            <div className="animated-layer fade-in-down-animation fadeInLeft wow">
               <span>
-                <i className="devicon-laravel-plain" />
+                <i className="devicon-nodejs-plain"/>
               </span>
-              <h4>Laravel</h4>
+              <h4>Node JS</h4>
             </div>
             {/* SKILL ITEM ENDS */}
+            {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
-                <i className="devicon-laravel-plain" />
+                <i className="devicon-laravel-plain"/>
               </span>
               <h4>Laravel</h4>
             </div>
